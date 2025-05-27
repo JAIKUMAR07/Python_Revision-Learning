@@ -7,4 +7,10 @@ also i am Learning Machine Learning so here i'll uplaod small my practicing code
 
 ## 📚 What's Inside
 
- 
+ ==================================================================================
+ Data Structure:
+  - List
+  - Tuple
+  - Set
+  - Dictionary
+  -

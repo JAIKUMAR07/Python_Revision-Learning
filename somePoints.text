@@ -1,0 +1,24 @@
+You're not changing the existing string or integer — you're actually creating a new one and re-assigning the variable.
+
+🔍 Let's Explain With an Example
+ 
+str1 = "hello"
+str1 = "hi"
+The first line creates a string object "hello" and str1 points to it.
+
+The second line creates a new string object "hi" and now str1 points to the new one.
+
+The old "hello" string still exists in memory (unless garbage collected).
+
+Same for integers:
+ 
+a = 10
+a = 100
+10 is an immutable int object
+
+a = 100 makes a point to a new int object
+===========================================================
+
+kon kon se method use kr skte  pta lga ske list ka 
+print(dir(a)) 
+help(list)

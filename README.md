@@ -31,6 +31,7 @@ also i am Learning Machine Learning so here i'll uplaod small my practicing code
 
 1. learning based Projects : 
     a. small projects :
+
         -1. : room booking system :
         -2 : Mobile Reacharge system :
         -3 : Temperature Alert System :
@@ -39,5 +40,10 @@ also i am Learning Machine Learning so here i'll uplaod small my practicing code
         -6 : Library Book Management System :
          
     b. File Handeling :
+        performed  : CRUD Operation  with exception handeling ensuring our program flow is smooth and not crash because of any errors like typo 
+
+    c. Numpy :
+        1. Valid Sudoku :
+                  
 
     
